@@ -5,6 +5,7 @@ User: "Xin chào! Tôi đang muốn đi du lịch nhưng chưa biết đi đâu.
 Kỳ vọng: Agent chào hỏi, hỏi thêm về sở thích/ngân sách/thời gian. Không gọi tool nào.
 
 Kết quả:
+
 TravelBuddy đang suy nghĩ...
 Trả lời trực tiếp
 
@@ -28,6 +29,7 @@ User: "Tìm giúp tôi chuyến bay từ Hà Nội đi Đà Nẵng"
 Kỳ vọng: Gọi search\_flights("Hà Nội", "Đà Nẵng"), liệt kê 4 chuyến bay.
 
 Kết quả:
+
 TravelBuddy đang suy nghĩ...
 Gọi tool: search_flights({'origin': 'Hà Nội', 'destination': 'Đà Nẵng'})
 Trả lời trực tiếp
@@ -67,6 +69,7 @@ calculate\_budget(5000000, "vé\_bay:1100000,khách\_sạn:...") → tính còn 
 Rồi tổng hợp thành gợi ý hoàn chỉnh với bảng chi phí.
 
 Kết quả:
+
 TravelBuddy đang suy nghĩ...
 Gọi tool: search_flights({'origin': 'Hà Nội', 'destination': 'Phú Quốc'})
 Gọi tool: search_hotels({'city': 'Phú Quốc', 'max_price_per_night': 1500000})
@@ -109,6 +112,7 @@ User: "Tôi muốn đặt khách sạn"
 Kỳ vọng: Agent hỏi lại: thành phố nào? bao nhiêu đêm? ngân sách bao nhiêu? Không gọi tool vội.
 
 Kết quả:
+
 TravelBuddy đang suy nghĩ...
 Trả lời trực tiếp
 
@@ -127,6 +131,7 @@ User: "Giải giúp tôi bài tập lập trình Python về linked list."
 Kỳ vọng: Từ chối lịch sự, nói rằng chỉ hỗ trợ về du lịch.
 
 Kết quả:
+
 TravelBuddy đang suy nghĩ...
 Trả lời trực tiếp
 
