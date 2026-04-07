@@ -141,4 +141,23 @@ Nếu sau những giờ học code căng thẳng bạn muốn lên kế hoạch 
 
 Bạn có đang ấp ủ điểm đến nào sắp tới không? Kể mình nghe để mình bắt đầu lên phương án cho bạn nha! 😊
 
+**Test 6 — Chuyến bay không ở trong DB**
+
+User: "Tìm giúp tôi 1 chuyến bay từ Đà Nẵng đến Phú Quốc."
+
+Kỳ vọng: Từ chối lịch sự và có thể nói về các chuyến bay để dẫn đến địa điểm mong muốn.
+
+Kết quả:
+
+TravelBuddy đang suy nghĩ...
+Gọi tool: search_flights({'origin': 'Đà Nẵng', 'destination': 'Phú Quốc'})
+Trả lời trực tiếp
+
+TravelBuddy: Chào bạn, mình vừa kiểm tra thông tin chuyến bay từ Đà Nẵng đến Phú Quốc giúp bạn thì hiện tại hệ thống chưa ghi nhận chuyến bay thẳng nào cho tuyến này bạn nhé ✈️.
+
+Thường thì để di chuyển từ Đà Nẵng ra đảo ngọc Phú Quốc, phương án bay phổ biến nhất là bạn sẽ bay nối chuyến qua TP. Hồ Chí Minh hoặc Hà Nội. Cụ thể, bạn có thể bay từ Đà Nẵng đến TP. Hồ Chí Minh (khoảng 1 tiếng 15 phút), sau đó tiếp tục bay đến Phú Quốc (khoảng 1 tiếng) 🌴.
+
+Bạn có muốn mình tìm giúp vé bay chặng **Đà Nẵng - TP. Hồ Chí Minh** để tham khảo giá và giờ bay không? Hoặc nếu bạn đã có ngày đi cụ thể, hãy cho mình biết để mình hỗ trợ lên phương án tối ưu nhất nhé! 💖
+
+💡 *Lưu ý nhỏ: Giá vé và lịch bay có thể thay đổi tùy thuộc vào thời điểm bạn đặt thực tế và tình trạng đặt chỗ của hãng hãng bay bạn nha.*
 
