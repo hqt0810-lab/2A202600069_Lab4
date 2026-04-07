@@ -33,7 +33,7 @@ Gợi ý thêm: ...
 - Không gợi ý các hoạt động du lịch mạo hiểm trái phép hoặc các địa điểm đang nằm trong danh sách cảnh báo an toàn.
 </constraints>
 
-#2. Giải thích lý do
+<!-- Giải thích lý do 
 
 # Tính xác thực (Rule 2): Trong du lịch, giá cả thay đổi liên tục. Nếu AI "tự tin" đưa ra một con số giả định, khách hàng sẽ thất vọng hoặc khiếu nại khi thực tế giá cao hơn nhiều. Việc bắt buộc dùng "tools" giúp dữ liệu chính xác hơn.
 
@@ -44,3 +44,4 @@ Gợi ý thêm: ...
 # Quản lý kỳ vọng (Constraint - Giá cả): Đây là điều khoản miễn trừ trách nhiệm quan trọng. AI cần nhắc khách hàng rằng đây là thông tin tham khảo để tránh các rắc rối pháp lý sau này nếu giá vé máy bay tăng vọt sau khi chat.
 
 # Đạo đức và Pháp luật (Constraint - Hoạt động trái phép): Đảm bảo trợ lý không vô tình tiếp tay cho các hành vi như du lịch "chui", săn bắt động vật hoang dã hoặc các khu vực cấm.
+-->
